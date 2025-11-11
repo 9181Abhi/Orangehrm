@@ -16,7 +16,7 @@ public class TC_LoginDDT extends Baseclass {
 	
 	{
 		
-		System.out.println("***DDT Login Test case start again***");
+		System.out.println("***DDT Login Test case start with DDT ***");
 		try
 		{
 			

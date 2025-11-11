@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-10T21:46:52 IST" name="Suite" finished-at="2025-11-10T21:47:04 IST" duration-ms="11555">
+  <suite started-at="2025-11-11T11:30:42 IST" name="Suite" finished-at="2025-11-11T11:30:58 IST" duration-ms="15885">
     <groups>
       <group name="Master">
-        <method signature="TC_Logintestcase.logintestclass()[pri:0, instance:com.test.classes.TC_Logintestcase@409bf450]" name="logintestclass" class="com.test.classes.TC_Logintestcase"/>
+        <method signature="TC_Logintestcase.logintestclass()[pri:0, instance:com.test.classes.TC_Logintestcase@4c12331b]" name="logintestclass" class="com.test.classes.TC_Logintestcase"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="TC_Logintestcase.logintestclass()[pri:0, instance:com.test.classes.TC_Logintestcase@409bf450]" name="logintestclass" class="com.test.classes.TC_Logintestcase"/>
+        <method signature="TC_Logintestcase.logintestclass()[pri:0, instance:com.test.classes.TC_Logintestcase@4c12331b]" name="logintestclass" class="com.test.classes.TC_Logintestcase"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2025-11-10T21:46:52 IST" name="Master" finished-at="2025-11-10T21:47:04 IST" duration-ms="11555">
+    <test started-at="2025-11-11T11:30:42 IST" name="Master" finished-at="2025-11-11T11:30:58 IST" duration-ms="15885">
       <class name="com.test.classes.TC_Logintestcase">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.test.classes.TC_Logintestcase@409bf450]" started-at="2025-11-10T21:46:52 IST" name="setup" finished-at="2025-11-10T21:46:58 IST" duration-ms="5469" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.test.classes.TC_Logintestcase@4c12331b]" started-at="2025-11-11T11:30:42 IST" name="setup" finished-at="2025-11-11T11:30:52 IST" duration-ms="9810" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logintestclass()[pri:0, instance:com.test.classes.TC_Logintestcase@409bf450]" started-at="2025-11-10T21:46:58 IST" name="logintestclass" finished-at="2025-11-10T21:47:03 IST" duration-ms="5802" status="PASS">
+        <test-method signature="logintestclass()[pri:0, instance:com.test.classes.TC_Logintestcase@4c12331b]" started-at="2025-11-11T11:30:52 IST" name="logintestclass" finished-at="2025-11-11T11:30:57 IST" duration-ms="5787" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintestclass -->
-        <test-method is-config="true" signature="teradown()[pri:0, instance:com.test.classes.TC_Logintestcase@409bf450]" started-at="2025-11-10T21:47:03 IST" name="teradown" finished-at="2025-11-10T21:47:04 IST" duration-ms="249" status="PASS">
+        <test-method is-config="true" signature="teradown()[pri:0, instance:com.test.classes.TC_Logintestcase@4c12331b]" started-at="2025-11-11T11:30:57 IST" name="teradown" finished-at="2025-11-11T11:30:58 IST" duration-ms="265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teradown -->
